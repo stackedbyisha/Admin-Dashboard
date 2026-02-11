@@ -19,5 +19,5 @@ This project is perfect for frontend developers to practice real-world dashboard
 - **Vite**
 - **Lucide React** (Icons)
 - **TanStack Table v8**
-- rechats (charts)
+- recharts (charts)
 
