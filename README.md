@@ -23,4 +23,4 @@ This project is perfect for frontend developers to practice real-world dashboard
 
 #ScreenShot
 
-https://github.com/stackedbyisha/Admin-Dashboard/blob/d6d0840d5b638ab81c3c607e93ac7c383ecb7659/screencapture-modern-admindashboard.png
+![image alt](https://github.com/stackedbyisha/Admin-Dashboard/blob/d6d0840d5b638ab81c3c607e93ac7c383ecb7659/screencapture-modern-admindashboard.png)
