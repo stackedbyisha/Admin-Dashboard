@@ -3,6 +3,11 @@
 A modern, responsive **Admin Dashboard UI** built using **React JS** and **Tailwind CSS**.  
 This project is perfect for frontend developers to practice real-world dashboard layouts, components, and UI patterns.
 
+#ScreenShot
+
+![image alt](https://github.com/stackedbyisha/Admin-Dashboard/blob/d6d0840d5b638ab81c3c607e93ac7c383ecb7659/screencapture-modern-admindashboard.png)
+
+
 ##  Features
 -  Collapsible Sidebar & Header
 -  Dark / Light Mode Toggle
@@ -21,6 +26,4 @@ This project is perfect for frontend developers to practice real-world dashboard
 - **TanStack Table v8**
 - recharts (charts)
 
-#ScreenShot
 
-![image alt](https://github.com/stackedbyisha/Admin-Dashboard/blob/d6d0840d5b638ab81c3c607e93ac7c383ecb7659/screencapture-modern-admindashboard.png)
